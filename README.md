@@ -9,3 +9,5 @@ See also [JMaxSum](https://github.com/mr2c12/jmaxsum) and [FRODO](https://frodo-
 * [XSCP specification](https://www.xscp.org)
 * [some DCOP instances](https://github.com/czy920/DCOPSolverOld/tree/master/DCOPSolver/problems)
 * [JaCoP](https://osolpro.atlassian.net/wiki/spaces/JACOP/overview)
+
+### Decentralised Coordination of Low-Power Embedded Devices Using the Max-Sum Algorithm
